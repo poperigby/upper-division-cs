@@ -131,7 +131,7 @@ Choose "Open in Browser". This will open up VSCode in your browser.
 Enable permissions in Gitpod's integrations for Github / Bitbucket / Gitlab by navigating to this URL
 https://gitpod.io/user/integrations
 
-Next to the "GitHub" integration, click on the three dots and choose "Manager this on github.com"
+Next to the "GitHub" integration, click on the three dots and choose "Manage on github.com"
 
 <img width="1103" alt="image" src="https://github.com/TheEvergreenStateCollege/upper-division-cs/assets/148553/6e2b9019-00b3-4b5f-bd4e-4073f28b6551">
 
